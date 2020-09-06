@@ -1,8 +1,0 @@
-{
-	"files.exclude": {
-		"/home/pabloarizaluna/git/BullCowGame-starter-kit/.vscode": true,
-		"/home/pabloarizaluna/git/BullCowGame-starter-kit/Content": true,
-		"/home/pabloarizaluna/git/BullCowGame-starter-kit/Intermediate": true,
-		"/home/pabloarizaluna/git/BullCowGame-starter-kit/Saved": true
-	}
-}
